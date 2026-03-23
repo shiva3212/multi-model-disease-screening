@@ -1,0 +1,76 @@
+# -------------------------------------------------------------------
+# MEDICAL DATASETS & IMAGES (CRITICAL)
+# -------------------------------------------------------------------
+*.csv
+Dataset/
+Testing Images/
+outputs/
+*predictions*.csv
+
+# -------------------------------------------------------------------
+# MACHINE LEARNING MODELS & WEIGHTS
+# -------------------------------------------------------------------
+# Exclude large structural files and models
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.model
+*.ckpt
+
+# -------------------------------------------------------------------
+# PYTHON ENVIRONMENTS & CACHE
+# -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# -------------------------------------------------------------------
+# IDE CONFIGURATION & SYSTEM FILES
+# -------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.iml
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# -------------------------------------------------------------------
+# SECRETS AND CONFIGURATIONS 
+# -------------------------------------------------------------------
+.env
+*.local
+secrets.json
+config.ini
