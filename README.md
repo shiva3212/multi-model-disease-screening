@@ -97,7 +97,7 @@ MIT License
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or contact ruthvik.j04@gmail.com
+For questions or feedback, please open an issue on GitHub or contact shivatandure@gmail.com
 ---
 
 **Note**: This project demonstrates the application of deep learning in healthcare diagnostics and serves as an educational resource for medical AI research.
